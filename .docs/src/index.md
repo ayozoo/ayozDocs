@@ -9,9 +9,6 @@ hero:
     - theme: brand
       text: 个人博客
       link: https://ayozoo.github.io/
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
   - title: 文档记录
