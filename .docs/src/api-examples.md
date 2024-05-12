@@ -27,7 +27,6 @@ const { theme, page, frontmatter } = useData()
 ### Page Frontmatter
 <pre>{{ frontmatter }}</pre>
 ```
-[Link to pure.html](/pure.html){target="_self"}
 <script setup>
 import { useData } from 'vitepress'
 
