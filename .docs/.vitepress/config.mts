@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ayoz",
   srcDir: './src',
+  base: '/ayozDocs/',
   description: "The best way to predict the future is to invent it.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
